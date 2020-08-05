@@ -6,6 +6,6 @@ These lessons live as an Android application, but not available to others in ano
 
 https://play.google.com/store/apps/details?id=com.jondouglas.comedyimprovisationmanual&hl=en_US
 
-[Lessons](https://github.com/JonDouglas/ComedyImprovLessons/tree/master/Lessons)
-[Short Form](https://github.com/JonDouglas/ComedyImprovLessons/tree/master/ShortForm)
-[Suggestions](https://github.com/JonDouglas/ComedyImprovLessons/tree/master/Suggestions)
+- [Lessons](https://github.com/JonDouglas/ComedyImprovLessons/tree/master/Lessons)
+- [Short Form](https://github.com/JonDouglas/ComedyImprovLessons/tree/master/ShortForm)
+- [Suggestions](https://github.com/JonDouglas/ComedyImprovLessons/tree/master/Suggestions)
